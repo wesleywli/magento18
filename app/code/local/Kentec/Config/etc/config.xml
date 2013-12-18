@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Kentec_Config>
+            <version>0.1.0</version>
+        </Kentec_Config>
+    </modules>
+</config>

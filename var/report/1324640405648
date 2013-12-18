@@ -1,0 +1,9 @@
+a:5:{i:0;s:164:"Error in file: "/var/www/magento18/app/code/local/Kentec/Checkoutexd/sql/checkoutexd_setup/install-0.1.0.php" - Can't retrieve entity config: checkoutexd/creditcard";i:1;s:900:"#0 /var/www/magento18/app/code/core/Mage/Core/Model/Resource/Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 /var/www/magento18/app/code/core/Mage/Core/Model/Resource/Setup.php(421): Mage_Core_Model_Resource_Setup->_modifyResourceDb('install', '', '0.1.0')
+#2 /var/www/magento18/app/code/core/Mage/Core/Model/Resource/Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('0.1.0')
+#3 /var/www/magento18/app/code/core/Mage/Core/Model/Resource/Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 /var/www/magento18/app/code/core/Mage/Core/Model/App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 /var/www/magento18/app/code/core/Mage/Core/Model/App.php(343): Mage_Core_Model_App->_initModules()
+#6 /var/www/magento18/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 /var/www/magento18/index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:11:"/magento18/";s:11:"script_name";s:20:"/magento18/index.php";s:4:"skin";s:7:"default";}

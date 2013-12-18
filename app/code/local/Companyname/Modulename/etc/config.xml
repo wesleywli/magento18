@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Companyname_Modulename>
+            <version>0.1.0</version>
+        </Companyname_Modulename>
+    </modules>
+    <global>
+        <models>
+            <modulename>
+                <class>Companyname_Modulename_Model</class>
+            </modulename>
+        </models>
+    </global>
+</config>

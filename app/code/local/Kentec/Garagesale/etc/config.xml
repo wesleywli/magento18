@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Kentec_Garagesale>
+            <version>0.1.0</version>
+        </Kentec_Garagesale>
+    </modules>
+
+    <frontend>
+	    <routers>
+	        <garagesale>
+	            <use>standard</use>
+	            <args>
+	                <module>Kentec_Garagesale</module>
+	                <frontName>garagesale</frontName>
+	            </args>
+	        </garagesale>
+	    </routers>
+	</frontend>
+	
+	<adminhtml>
+        <menu>
+            <garagesale module="garagesale">
+                <title>Garagesale</title>
+                <sort_order>71</sort_order>              
+                <children>
+                    <items module="garagesale">
+                        <title>Manage Garagesale</title>
+                        <sort_order>0</sort_order>
+                    <action>garagesale/garagesale</action>
+                    </items>
+                </children>
+            </garagesale>
+        </menu>
+        <acl>
+            <resources>
+                <all>
+                    <title>Allow Everything</title>
+                </all>
+                <admin>
+                    <children>
+                        <Kentec_Garagesale>
+                            <title>Garagesale</title>
+                            <sort_order>10</sort_order>
+                        </Kentec_Garagesale>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+        <layout>
+            <updates>
+                <garagesale>
+                    <file>garagesale.xml</file>
+                </garagesale>
+            </updates>
+        </layout>
+    </adminhtml>
+    <admin>
+        <!--
+            Here we are telling the Magento router to look for the controllers in the Super_Awesome_controllers_Adminhtml before we look in the
+            Mage_Adminhtml module for all urls that begin with /admin/controller_name
+         -->
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <garagesale before="Mage_Adminhtml">Kentec_Garagesale_Adminhtml</garagesale>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin> 
+	<!-- <adminhtml>
+        <menu>
+            <garagesale translate="title" module="garagesale">
+                <title>GarageSale</title> 
+                <sort_order>9999</sort_order>
+                <children>
+                    <first_page module="garagesale">
+                        <title>Our First Page</title> 
+                        <action>garagesale/index/index</action>
+                    </first_page>
+                </children>
+            </garagesale>
+        </menu> 
+    </adminhtml> -->
+
+	<global>
+
+	    <models>
+	        <garagesale>
+	            <class>Kentec_Garagesale_Model</class>
+	            <resourceModel>garagesale_resource</resourceModel>
+	        </garagesale>
+	        
+	        <garagesale_resource>
+	            <class>Kentec_Garagesale_Model_Resource</class>
+	            <entities>
+	                <garagesaleitempost>
+	                    <table>garagesaleitem_posts</table>
+	                </garagesaleitempost>
+	            </entities>
+	        </garagesale_resource>
+	    </models> 
+
+	    <resources>
+	        <garagesale_setup>
+	            <setup>
+	                <module>Kentec_Garagesale</module>
+	                <class>Kentec_Garagesale_Model_Resource_Setup</class>
+	            </setup>
+	        </garagesale_setup>
+	    </resources> 
+
+	    <blocks>
+            <garagesale>
+                <class>Kentec_Garagesale_Block</class>
+            </garagesale>
+        </blocks>
+	    <helpers>
+	        <garagesale>
+	            <class>Kentec_Garagesale_Helper</class>
+	        </garagesale>
+	    </helpers>  
+	    
+	</global>
+
+	
+</config>

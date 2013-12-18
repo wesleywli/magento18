@@ -1,0 +1,187 @@
+<?$count=0;?>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+//<![CDATA[
+	var counter=<?=($this->getCreditcards())? count($this->getCreditcards()):0;?>;
+	jQuery.noConflict();
+	jQuery(document).ready(function() {
+	// $(window).load(function(){
+		jQuery(document).on('click', '.add', function() {
+		    // $("form fieldset > p:first-child").clone(true).insertBefore("form fieldset > p:last-child");
+		    
+		    var strToAdd = '<li><table cellpadding="0" class="form-list" ><tbody><tr><td height="10px"></td></tr><tr><td width="30%"><label>Name on Card <em>*</em></label></td><td width="40%"><input type="text" name="creditcard['+counter+'][cc_name]" class="input-text required-entry" title="Name on Card" autocomplete="off"></td><td><img src="<?php echo $this->getSkinUrl('images/cancel_icon.gif') ?>" class="remove"></td></tr><tr><td width="30%"><label>Credit Card Type <em>*</em></label></td><td><select class="required-entry" title="Credit Card Type" name="creditcard['+counter+'][cc_type]" autocomplete="off"><option value="">--Please Select--</option><option value="AE">American Express</option><option value="VI">Visa</option><option value="MC">MasterCard</option><option value="DI">Discover</option></select></td></tr><tr><td width="30%"><label>Credit Card Number <em>*</em></label></td><td><input type="text" class="input-text" title="Credit Card Number" name="creditcard['+counter+'][cc_number]" autocomplete="off"></td></tr><tr><td><label>Expiration Date <em>*</em></label></td><td><div ><select class="month required-entry" name="creditcard['+counter+'][cc_exp_month]" autocomplete="off"><option value="" selected >Month</option><option value="1">01 - January</option><option value="2">02 - February</option><option value="3">03 - March</option><option value="4">04 - April</option><option value="5">05 - May</option><option value="6">06 - June</option><option value="7">07 - July</option><option value="8">08 - August</option><option value="9">09 - September</option><option value="10">10 - October</option><option value="11">11 - November</option><option value="12">12 - December</option></select><select class="year required-entry" name="creditcard['+counter+'][cc_exp_year]" autocomplete="off"><option selected="selected" value="">Year</option>option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option></select></div></td></tr><tr><td><label>Card Verification Number <em>*</em></label></td><td><input type="text" name="creditcard['+counter+'][cc_cid]" class="input-text required-entry " title="Card Verification Number" autocomplete="off"></td></tr></tbody></table></li>';
+		    // console.log(strToAdd);
+		    jQuery('#mainField').append(strToAdd);
+		    counter++;
+		    return false;
+		});
+
+		jQuery(document).on('click', '.remove', function() {
+			// remove element table
+		    jQuery(this).parent().parent().parent().parent().remove();
+		    counter--;
+		    // note remove element
+		    var removeCounter = jQuery(this).attr('counter');
+		    jQuery('[name="creditcard[' + removeCounter + '][delete]"]').val('1');
+		});
+
+		
+
+	});
+// ]]>
+</script>
+
+
+<div id="creditcard_info_tabs_customer_edit_tab_action_content">
+<div class="entry-edit">
+<div class="entry-edit-head">
+<h4 class="icon-head head-edit-form fieldset-legend">CreditCard Information</h4>
+</div>
+<div id="group_fields4" class="fieldset fieldset-wide">
+<div class="hor-scroll">
+
+<div class="sub-btn-set"><button id="add_creditcard_button" name="add_creditcard_button" title="Add New Creditcard" type="button" class="scalable add" ><span><span><span>Add New Creditcard</span></span></span></button></div>
+
+	<ul id="mainField">
+		<? foreach($this->getCreditcards() as $creditcard) { ?>
+		<li>
+			<input name="creditcard[<?=$count;?>][delete]" value="0" type="hidden">
+			<input name="creditcard[<?=$count;?>][item_id]" value="<? 
+				if($creditcard != '') {
+					echo $creditcard->getId();
+				}else {
+					echo '0';
+				}
+				?>" type="hidden">
+			<table class="form-list" cellspacing="0">
+			<tbody>
+			<tr><td height="10px"></td></tr>
+		    <tr>
+		        <td width="30%"><label>Name on Card <em>*</em></label></td>
+		        <td width="40%"><input type="text" value="<? 
+				if($creditcard != '') {
+					echo $creditcard->getName();
+				}else {
+					echo '';
+				}
+				?>" name="creditcard[<?=$count;?>][cc_name]" class=" required-entry input-text required-entry" title="Name on Card" autocomplete="off"></td>
+				<td><img counter="<?=$count;?>" src="<?php echo $this->getSkinUrl('images/cancel_icon.gif') ?>" class="remove"></td>
+		    </tr>
+		    <tr>
+		        <td width="30%"><label>Credit Card Type <em>*</em></label></td>
+		        <td><select class="required-entry" title="Credit Card Type" name="creditcard[<?=$count;?>][cc_type]"  autocomplete="off">
+		                <?if($creditcard != '') { ?>
+			        		<option value="" <?=($creditcard->getType() == '')? 'selected': ''; ?> >--Please Select--</option>
+			        		<option value="AE" <?=($creditcard->getType() == 'AE')? 'selected': ''; ?> >American Express</option>
+			                <option value="VI" <?=($creditcard->getType() == 'VI')? 'selected': ''; ?> >Visa</option>
+			                <option value="MC" <?=($creditcard->getType() == 'MC')? 'selected': ''; ?> >MasterCard</option>
+			                <option value="DI" <?=($creditcard->getType() == 'DI')? 'selected': ''; ?> >Discover</option>
+			        	<?} else {?>
+			        		<option value="">--Please Select--</option>
+			                <option value="AE">American Express</option>
+			                <option value="VI">Visa</option>
+			                <option value="MC">MasterCard</option>
+			                <option value="DI">Discover</option>
+			        	<?}?>
+		            </select>
+		        </td>
+		    </tr>
+		    <tr>
+		        <td width="30%"><label>Credit Card Number <em>*</em></label></td>
+		        <td><input type="text" value="<? 
+				if($creditcard != '') {
+					echo $creditcard->getNumber();
+				}else {
+					echo '';
+				}
+				?>" class="input-text" title="Credit Card Number" name="creditcard[<?=$count;?>][cc_number]" autocomplete="off"></td>
+		    </tr>
+		    <tr>
+		        <td><label>Expiration Date <em>*</em></label></td>
+		        <td><div>
+		                <select class="month required-entry" name="creditcard[<?=$count;?>][cc_exp_month]" autocomplete="off">
+		                	<?if($creditcard !='') {?>
+		                	<option value="" <?=($creditcard->getExpMonth() == '')? 'selected': ''; ?> >Month</option>
+		                    <option value="1" <?=($creditcard->getExpMonth() == '1')? 'selected': ''; ?> >01 - January</option>
+		                    <option value="2" <?=($creditcard->getExpMonth() == '2')? 'selected': ''; ?> >02 - February</option>
+		                    <option value="3" <?=($creditcard->getExpMonth() == '3')? 'selected': ''; ?> >03 - March</option>
+		                    <option value="4" <?=($creditcard->getExpMonth() == '4')? 'selected': ''; ?> >04 - April</option>
+		                    <option value="5" <?=($creditcard->getExpMonth() == '5')? 'selected': ''; ?> >05 - May</option>
+		                    <option value="6" <?=($creditcard->getExpMonth() == '6')? 'selected': ''; ?> >06 - June</option>
+		                    <option value="7" <?=($creditcard->getExpMonth() == '7')? 'selected': ''; ?> >07 - July</option>
+		                    <option value="8" <?=($creditcard->getExpMonth() == '8')? 'selected': ''; ?> >08 - August</option>
+		                    <option value="9" <?=($creditcard->getExpMonth() == '9')? 'selected': ''; ?> >09 - September</option>
+		                    <option value="10" <?=($creditcard->getExpMonth() == '10')? 'selected': ''; ?> >10 - October</option>
+		                    <option value="11" <?=($creditcard->getExpMonth() == '11')? 'selected': ''; ?> >11 - November</option>
+		                    <option value="12" <?=($creditcard->getExpMonth() == '12')? 'selected': ''; ?> >12 - December</option>
+		                	<? } else {?>
+		                    <option value="" selected >Month</option>
+		                    <option value="1">01 - January</option>
+		                    <option value="2">02 - February</option>
+		                    <option value="3">03 - March</option>
+		                    <option value="4">04 - April</option>
+		                    <option value="5">05 - May</option>
+		                    <option value="6">06 - June</option>
+		                    <option value="7">07 - July</option>
+		                    <option value="8">08 - August</option>
+		                    <option value="9">09 - September</option>
+		                    <option value="10">10 - October</option>
+		                    <option value="11">11 - November</option>
+		                    <option value="12">12 - December</option>
+		                    <? } ?>
+		                </select>
+
+		                <select class="year required-entry" name="creditcard[<?=$count;?>][cc_exp_year]" autocomplete="off">
+		                	<?if($creditcard !='') {?>
+		                	<option value="" <?=($creditcard->getExpYear() == '')? 'selected': ''; ?> >Year</option>
+		                    <option value="2013" <?=($creditcard->getExpYear() == '2013')? 'selected': ''; ?> >2013</option>
+		                    <option value="2014" <?=($creditcard->getExpYear() == '2014')? 'selected': ''; ?> >2014</option>
+		                    <option value="2015" <?=($creditcard->getExpYear() == '2015')? 'selected': ''; ?> >2015</option>
+		                    <option value="2016" <?=($creditcard->getExpYear() == '2016')? 'selected': ''; ?> >2016</option>
+		                    <option value="2017" <?=($creditcard->getExpYear() == '2017')? 'selected': ''; ?> >2017</option>
+		                    <option value="2018" <?=($creditcard->getExpYear() == '2018')? 'selected': ''; ?> >2018</option>
+		                    <option value="2019" <?=($creditcard->getExpYear() == '2019')? 'selected': ''; ?> >2019</option>
+		                    <option value="2020" <?=($creditcard->getExpYear() == '2020')? 'selected': ''; ?> >2020</option>
+		                    <option value="2021" <?=($creditcard->getExpYear() == '2021')? 'selected': ''; ?> >2021</option>
+		                    <option value="2022" <?=($creditcard->getExpYear() == '2022')? 'selected': ''; ?> >2022</option>
+		                    <option value="2023" <?=($creditcard->getExpYear() == '2023')? 'selected': ''; ?> >2023</option>
+		                	<? } else { ?>
+		                    <option selected="selected" value="">Year</option>
+		                    <option value="2013">2013</option>
+		                    <option value="2014">2014</option>
+		                    <option value="2015">2015</option>
+		                    <option value="2016">2016</option>
+		                    <option value="2017">2017</option>
+		                    <option value="2018">2018</option>
+		                    <option value="2019">2019</option>
+		                    <option value="2020">2020</option>
+		                    <option value="2021">2021</option>
+		                    <option value="2022">2022</option>
+		                    <option value="2023">2023</option>
+		                    <? } ?>
+		                </select>
+		            </div>
+		        </td>
+		    </tr>
+		    <tr>
+		        <td><label>Card Verification Number <em>*</em></label></td>
+		        <td><input type="text" value="<? 
+				if($creditcard != '') {
+					echo $creditcard->getVerifyNumber();
+				}else {
+					echo '';
+				}
+				?>" name="creditcard[<?=$count;?>][cc_cid]" class="input-text required-entry " title="Card Verification Number" autocomplete="off"></td>
+		    </tr>
+		</tbody>
+		</table>
+		</li>
+		<? $count=$count+1;} ?>
+	</ul>
+
+</div>
+</div>
+</div>
+</div>
+

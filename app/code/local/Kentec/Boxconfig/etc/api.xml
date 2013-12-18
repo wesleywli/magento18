@@ -1,0 +1,94 @@
+<config>
+    <api>
+        <resources>
+            <boxconfig translate="title" module="boxconfig">
+                <model>boxconfig/item_api</model> <!-- our model -->
+                <title>Boxconfig Resource</title>
+                <acl>boxconfig</acl>
+                <methods>
+                    <list translate="title" module="boxconfig">
+                        <title>Retrive boxconfig</title>
+                        <method>items</method>
+                        <acl>boxconfig/list</acl>                   
+                    </list>
+                    <create translate="title" module="boxconfig">
+                        <title>Create boxconfig</title>
+                        <method>create</method>
+                        <acl>boxconfig/create</acl>
+                    </create>
+                    <info translate="title" module="boxconfig">
+                        <title>Retrieve boxconfig data</title>
+                        <method>info</method>
+                        <acl>boxconfig/info</acl>
+                    </info>
+                    <update translate="title" module="boxconfig">
+                        <title>Update boxconfig data</title>
+                        <method>update</method>
+                        <acl>boxconfig/update</acl>
+                    </update>
+                    <delete>
+                        <title>Delete boxconfig</title>
+                        <method>delete</method>
+                        <acl>boxconfig/delete</acl>
+                    </delete>
+                    <customerinfo>
+                        <title>CustomerInfo by imei</title>
+                        <method>customerInfoByImei</method>
+                        <acl>boxconfig/customerinfo</acl>
+                    </customerinfo>
+                </methods>
+
+                <faults module="boxconfig"> <!-- module="boxconfig" specifies the module which will be used for translation. -->
+                    <data_invalid> <!-- if we get invalid input data for customers -->
+                        <code>100</code >
+                        <!-- we cannot know all the errors that can appear, their details can be found in error message for call -->
+                        <message>Invalid boxconfig data. Details in error message.</message>
+                    </data_invalid>
+                    <filters_invalid>
+                        <code>101</code >
+                        <message>Invalid filters specified. Details in error message.</message>
+                    </filters_invalid>
+                    <not_exists>
+                        <code>102</code >
+                        <message>Boxconfig doesn't exist.</message>
+                    </not_exists>
+                    <not_deleted>
+                        <code>103</code >
+                        <message>Boxconfig was not deleted. Details in error message.</message>
+                    </not_deleted>
+                </faults>
+            </boxconfig>
+        </resources>
+
+        <resources_alias>
+            <boxconfig>boxconfig</boxconfig>
+        </resources_alias>
+        
+
+        <acl>
+            <resources>
+                    <boxconfig translate="title" module="boxconfig">
+                         <title>Boxconfig</title>
+                         <list translate="title" module="boxconfig">
+                            <title>View All</title>
+                         </list>
+                         <create translate="title" module="boxconfig">
+                            <title>Create</title>
+                         </create>                         
+                         <info translate="title" module="boxconfig">
+                            <title>Get Info</title>
+                         </info>
+                         <update translate="title" module="boxconfig">
+                            <title>Update</title>
+                         </update> 
+                         <delete translate="title" module="boxconfig">
+                            <title>Delete</title>
+                         </delete>
+                         <customerinfo translate="title" module="boxconfig">
+                            <title>CustomerInfo</title>
+                         </customerinfo>                       
+                    </boxconfig>
+            </resources>
+        </acl>
+    </api>
+</config>

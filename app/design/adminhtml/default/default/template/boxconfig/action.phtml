@@ -1,0 +1,78 @@
+<div id="boxconfig_info_tabs_customer_edit_tab_action_content">
+<div class="entry-edit">
+<div class="entry-edit-head">
+<h4 class="icon-head head-edit-form fieldset-legend">Box Information</h4>
+</div>
+<div id="group_fields4" class="fieldset fieldset-wide">
+<div class="hor-scroll">
+<table class="form-list" cellspacing="0">
+<tbody>
+
+		<tr><td><input id="item_id" name="item_id" value="<? 
+			if($this->getBoxconfig() != '') {
+				echo $this->getBoxconfig()->getId();
+			}else {
+				echo '0';
+			}
+			?>" type="hidden"></td></tr>
+		<tr>
+		<!-- <td class="label">Customer Id: </td>
+		<td class="value"><input id="customerid" name="customerid" value="<?=$this->getRequest()->getParam('id')?>" class="input-text" type="text" disabled="disabled"></td> -->
+		<input id="customer_id" name="customer_id" value="<?=$this->getRequest()->getParam('id')?>" type="hidden">
+		</tr>
+		<tr>
+		<td class="label">IMEI: </td>
+		<td class="value"><input id="imei" name="imei" value="<? 
+			if($this->getBoxconfig() != '') {
+				echo $this->getBoxconfig()->getImei();
+			}else {
+				echo '';
+			}
+			?>" class=" required-entry input-text required-entry" type="text"></td>
+		</tr>
+		<tr>
+		<td class="label">Mac Addr: </td>
+		<td class="value"><input id="mac_addr" name="mac_addr" value="<? 
+			if($this->getBoxconfig() != '') {
+				echo $this->getBoxconfig()->getMacAddr();
+			}else {
+				echo '';
+			}
+			?>" class=" required-entry input-text required-entry" type="text"></td>
+		</tr>
+		<tr>
+		        <td class="label"><label for="status">Status</label></td>
+		    <td class="value">
+		        <select id="status" name="status" class="select">
+		        	<?if($this->getBoxconfig() != '') {
+		        		if($this->getBoxconfig()->getStatus() == 1) { ?>
+		        		<option value="1" selected="selected" >Active</option>
+						<option value="0" >Inactive</option>
+						<?} else { ?>
+						<option value="1">Active</option>
+						<option value="0" selected="selected">Inactive</option>
+						<? }?>
+		        	<?} else {?>
+		        		<option value="1">Active</option>
+						<option value="0" selected="selected">Inactive</option>
+		        	<?}?>
+				</select>
+			</td>
+		    </tr>
+
+			<tr>
+			<td class="label">Comment: </td>
+			<td class="value"><textarea id="comment" name="comment" title="Comment" style="width:98%; height:200px;" rows="2" cols="15" class=" textarea"><? 
+			if($this->getBoxconfig() != '') {
+				echo $this->getBoxconfig()->getComment();
+			}else {
+				echo '';
+			}
+			?></textarea>
+			</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>

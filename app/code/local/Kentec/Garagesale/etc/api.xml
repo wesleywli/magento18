@@ -1,0 +1,89 @@
+<config>
+    <api>
+        <resources>
+            <garagesale translate="title" module="kentec_garagesale">
+                <model>garagesale/item_api</model> <!-- our model -->
+                <title>Garagesale Resource</title>
+                <!-- <acl>garagesale</acl> -->
+                <methods>
+                    <list translate="title" module="kentec_garagesale">
+                        <title>Retrive garagesale</title>
+                        <method>items</method>
+                        <!-- <acl>garagesale/list</acl>                    -->
+                    </list>
+                    <create translate="title" module="kentec_garagesale">
+                        <title>Create garagesale</title>
+                        <method>create</method>
+                        <!-- <acl>garagesale/create</acl> -->
+                    </create>
+                    <info translate="title" module="kentec_garagesale">
+                        <title>Retrieve garagesale data</title>
+                        <method>info</method>
+                        <!-- <acl>garagesale/info</acl> -->
+                    </info>
+                    <update translate="title" module="kentec_garagesale">
+                        <title>Update garagesale data</title>
+                        <method>update</method>
+                        <!-- <acl>garagesale/update</acl> -->
+                    </update>
+                    <delete>
+                        <title>Delete garagesale</title>
+                        <method>delete</method>
+                        <!-- <acl>garagesale/delete</acl> -->
+                    </delete>
+                </methods>
+
+                <!-- <faults module="kentec_garagesale"> 
+                    <data_invalid>
+                        <code>100</code >
+                        <message>Invalid garagesale data. Details in error message.</message>
+                    </data_invalid>
+                    <filters_invalid>
+                        <code>101</code >
+                        <message>Invalid filters specified. Details in error message.</message>
+                    </filters_invalid>
+                    <not_exists>
+                        <code>102</code >
+                        <message>Garagesale doesn't exist.</message>
+                    </not_exists>
+                    <not_deleted>
+                        <code>103</code >
+                        <message>Garagesale was not deleted. Details in error message.</message>
+                    </not_deleted>
+                </faults> -->
+            </garagesale>
+        </resources>
+
+        <resources_alias>
+            <garagesale>garagesale</garagesale>
+        </resources_alias>
+        <v2>
+            <resources_function_prefix>
+                <garagesale>garagesale</garagesale>
+            </resources_function_prefix>
+        </v2>	
+
+        <!-- <acl>
+            <resources>
+                    <garagesale translate="title" module="kentec_garagesale">
+                         <title>Garagesale</title>
+                         <list translate="title" module="kentec_garagesale">
+                            <title>View All</title>
+                         </list>
+                         <create translate="title" module="kentec_garagesale">
+                            <title>Create</title>
+                         </create>                         
+                         <info translate="title" module="kentec_garagesale">
+                            <title>Get Info</title>
+                         </info>
+                         <update translate="title" module="kentec_garagesale">
+                            <title>Update</title>
+                         </update> 
+                         <delete translate="title" module="kentec_garagesale">
+                            <title>Delete</title>
+                         </delete>                       
+                    </garagesale>
+            </resources>
+        </acl> -->
+    </api>
+</config>

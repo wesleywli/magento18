@@ -1,0 +1,745 @@
+2013-10-25T03:09:58+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:13:57+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:23:47+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T03:23:47+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T03:24:15+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T03:24:15+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T03:29:49+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:30:45+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:46:26+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:49:00+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:49:36+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:51:24+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:53:34+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T03:54:50+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T03:56:53+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T04:01:46+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T04:02:40+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T04:03:19+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T04:05:10+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T05:04:29+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T05:07:08+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T05:08:04+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T07:32:16+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T07:45:09+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:45:09+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:46:22+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:46:22+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:46:34+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:46:34+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:46:43+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T07:48:05+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T07:48:44+00:00 DEBUG (7): Undefined offset: 1/var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php
+2013-10-25T07:48:57+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:48:57+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:54:45+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:54:46+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:55:09+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T07:55:09+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:02:29+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:34:37+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:34:37+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:35:00+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:35:00+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:35:19+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:40:18+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:40:29+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:41:27+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:41:27+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-25T08:45:48+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:47:51+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:48:18+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:50:09+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:52:23+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:52:36+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:54:25+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:54:42+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T08:56:28+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-25T09:23:14+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:23:14+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:25:21+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:25:21+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:27:47+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:27:47+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:27:55+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:27:55+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:28:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-25T09:31:35+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:31:35+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:31:36+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:31:36+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:31:37+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:31:37+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:32+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:32+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:36+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:36+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:38+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:32:38+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:44+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:44+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:48+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:48+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:49+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-25T09:33:49+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:55:05+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:55:05+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:58:57+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:58:57+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:58:58+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T01:58:58+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:03:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T02:13:16+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:13:16+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:13:18+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:13:18+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:37+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:37+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:40+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:40+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:41+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:16:41+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:26:54+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:26:54+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:01+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:01+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:08+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:08+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:21+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:21+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:23+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:23+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:39+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:27:39+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:28:38+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:28:38+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:29:05+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:29:05+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:14+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:14+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:17+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:17+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:49+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:30:49+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:13+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:13+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:15+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:15+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:16+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:32:16+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:09+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:09+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:10+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:10+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:11+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:11+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:12+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:12+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:12+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:39:12+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:11+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:11+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:14+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:14+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:17+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T02:45:17+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T03:07:26+00:00 ERR (3): Warning: include(Kentec/Checkout/Model/Cart.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T03:07:26+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkout/Model/Cart.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-10-28T03:09:21+00:00 DEBUG (7): Missing argument 1 for Mage_Customer_Model_Customer_Api::info()/var/www/magento18/app/code/core/Mage/Customer/Model/Customer/Api.php
+2013-10-28T03:09:21+00:00 DEBUG (7): Undefined variable: customerId/var/www/magento18/app/code/core/Mage/Customer/Model/Customer/Api.php
+2013-10-28T03:23:27+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:23:27+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:24:27+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:24:42+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:25:10+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:26:01+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:26:18+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:26:18+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:44:51+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:45:14+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-10-28T03:45:35+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:45:35+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:59:23+00:00 DEBUG (7): Missing argument 1 for Kentec_Garagesale_Model_Item_Api::items()/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T03:59:23+00:00 DEBUG (7): Undefined variable: filters/var/www/magento18/app/code/local/Kentec/Garagesale/Model/Item/Api.php
+2013-10-28T07:56:26+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/local/Kentec/Garagesale/controllers/IndexController.php on line 119
+2013-10-28T07:56:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:28+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:00:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:05:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/magento18/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/magento18/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/magento18/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/magento18/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/magento18/app/Mage.php:683
+[6] /var/www/magento18/index.php:87
+</pre>
+2013-10-28T08:32:07+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/local/Kentec/Garagesale/controllers/IndexController.php on line 119
+2013-10-28T08:37:36+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/local/Kentec/Garagesale/controllers/IndexController.php on line 119
+2013-10-30T01:36:10+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Cart_Api::addProductToWishlist(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Cart/Api.php
+2013-10-30T01:36:10+00:00 DEBUG (7): Undefined variable: productId/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Cart/Api.php
+2013-10-30T01:36:10+00:00 DEBUG (7): Undefined variable: productId/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Cart/Api.php
+2013-10-31T02:01:27+00:00 CRIT (2): Not valid template file:adminhtml/base/default/template/boxconfig/action.phtml
+2013-10-31T02:01:30+00:00 CRIT (2): Not valid template file:adminhtml/base/default/template/boxconfig/action.phtml
+2013-10-31T03:08:48+00:00 ERR (3): Notice: Use of undefined constant this - assumed 'this'  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T03:08:49+00:00 ERR (3): Notice: Use of undefined constant this - assumed 'this'  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T03:09:14+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Block_Adminhtml_Customer_Edit_Tab_Action could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T03:09:15+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Block_Adminhtml_Customer_Edit_Tab_Action could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:27:00+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:27:02+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:02+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:03+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:36+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:39+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:49+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-10-31T08:30:52+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 12
+2013-11-01T01:38:36+00:00 ERR (3): Notice: Undefined index: customerid  in /var/www/magento18/app/code/local/Kentec/Boxconfig/controllers/IndexController.php on line 39
+2013-11-01T01:54:17+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T01:55:33+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T01:55:35+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T01:57:42+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T01:57:45+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:28:19+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:28:39+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:29:57+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:33:09+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:33:20+00:00 ERR (3): Notice: Undefined variable: item  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Block/Adminhtml/Customer/Edit/Tab/Action.php on line 93
+2013-11-01T02:48:52+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 14
+2013-11-01T03:45:59+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 14
+2013-11-01T03:49:20+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 14
+2013-11-01T03:50:11+00:00 ERR (3): Recoverable Error: Object of class Kentec_Boxconfig_Model_Boxconfig could not be converted to string  in /var/www/magento18/app/design/adminhtml/default/default/template/boxconfig/action.phtml on line 14
+2013-11-01T05:59:31+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T05:59:36+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T05:59:42+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:00:42+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:00:48+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:05:03+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:05:06+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:05:12+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:07:44+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:07:48+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:07:49+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:07:51+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:07:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:18:55+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:19:07+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:20:10+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:20:13+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:20:14+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:22:58+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:23:05+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T06:23:07+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 954
+2013-11-01T09:58:57+00:00 ERR (3): Warning: include(Mage/Kentec/Boxconfig/Model/Observer.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-01T09:58:57+00:00 ERR (3): Warning: include(): Failed opening 'Mage/Kentec/Boxconfig/Model/Observer.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-01T09:59:08+00:00 ERR (3): Warning: include(Mage/Kentec/Boxconfig/Model/Observer.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-01T09:59:08+00:00 ERR (3): Warning: include(): Failed opening 'Mage/Kentec/Boxconfig/Model/Observer.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-01T09:59:32+00:00 ERR (3): Warning: include(Mage/Kentec/Boxconfig/Model/Observer.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-01T09:59:32+00:00 ERR (3): Warning: include(): Failed opening 'Mage/Kentec/Boxconfig/Model/Observer.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-04T01:20:23+00:00 ERR (3): Warning: include(Mage/Kentec/Boxconfig/Model/Observer.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-04T01:20:23+00:00 ERR (3): Warning: include(): Failed opening 'Mage/Kentec/Boxconfig/Model/Observer.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-04T01:29:15+00:00 ERR (3): Warning: include(Mage/Kentec/Boxconfig/Model/Observer.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-04T01:29:15+00:00 ERR (3): Warning: include(): Failed opening 'Mage/Kentec/Boxconfig/Model/Observer.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 10
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 11
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: imei  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 12
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: mac_addr  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 13
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: comment  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 14
+2013-11-04T06:52:08+00:00 ERR (3): Notice: Undefined index: status  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 15
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 10
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 11
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: imei  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 12
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: mac_addr  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 13
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: comment  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 14
+2013-11-04T06:55:32+00:00 ERR (3): Notice: Undefined index: status  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 15
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 10
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 11
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: imei  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 12
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: mac_addr  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 13
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: comment  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 14
+2013-11-04T06:57:56+00:00 ERR (3): Notice: Undefined index: status  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 15
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 11
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 12
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: imei  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 13
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: mac_addr  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 14
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: comment  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 15
+2013-11-04T07:02:56+00:00 ERR (3): Notice: Undefined index: status  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 16
+2013-11-04T07:08:02+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-04T07:47:49+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-04T07:57:20+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-04T08:05:44+00:00 ERR (3): User Error: Some transactions have not been committed or rolled back  in /var/www/magento18/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 3865
+2013-11-04T08:11:38+00:00 ERR (3): User Error: Some transactions have not been committed or rolled back  in /var/www/magento18/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 3865
+2013-11-04T08:30:26+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-04T08:35:12+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-04T08:37:09+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-05T03:38:05+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-05T03:39:18+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-05T03:40:25+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-05T05:05:51+00:00 ERR (3): Notice: Undefined index: image  in /var/www/magento18/app/code/local/Kentec/Garagesale/controllers/GaragesaleController.php on line 85
+2013-11-05T07:45:13+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-08T07:11:42+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-11T07:46:17+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:46:17+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:47:55+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:47:55+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:47:58+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:47:58+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:48:03+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:48:03+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:49:55+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:49:55+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:49:58+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:49:58+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:50:16+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:50:16+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:50:19+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:50:19+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:51:49+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:51:49+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:55:04+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T07:55:04+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:45:47+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:45:47+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:53:35+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:53:35+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:55:49+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-11T08:55:49+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:13:30+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:13:30+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:14:12+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:14:12+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:28:05+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:28:05+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:03+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:03+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:06+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:06+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:52+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:31:52+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:35:11+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:35:11+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:35:14+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:35:14+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:41:35+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:41:35+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:29+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcar.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:29+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcar.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:31+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcar.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:31+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcar.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:32+00:00 ERR (3): Warning: include(Kentec/Checkoutexd/Model/Creditcar.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:48:32+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Checkoutexd/Model/Creditcar.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:24+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:24+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:25+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:25+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:34+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T01:54:34+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:44+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:44+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:47+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:47+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:48+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:02:48+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:09:56+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:09:56+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:09:58+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:09:58+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:10:02+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:10:02+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:10:03+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:10:03+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:40+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:40+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:43+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:43+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:45+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:45+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:46+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:18:46+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:45+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:45+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:46+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:46+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:47+00:00 ERR (3): Warning: include(Kentec/Boxconfig/Model/Resource/Creditcard.php): failed to open stream: No such file or directory  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T02:21:47+00:00 ERR (3): Warning: include(): Failed opening 'Kentec/Boxconfig/Model/Resource/Creditcard.php' for inclusion (include_path='/var/www/magento18/app/code/local:/var/www/magento18/app/code/community:/var/www/magento18/app/code/core:/var/www/magento18/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/magento18/lib/Varien/Autoload.php on line 93
+2013-11-12T08:18:03+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::setInfoByCustomerId(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:18:03+00:00 DEBUG (7): Undefined variable: data/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:19:59+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::setInfoByCustomerId(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:19:59+00:00 DEBUG (7): Undefined variable: data/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:23:13+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::setInfoByCustomerId(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:23:13+00:00 DEBUG (7): Undefined variable: data/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:42:09+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::update(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:42:09+00:00 DEBUG (7): Undefined variable: cardData/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:42:09+00:00 DEBUG (7): Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php on line 38 and defined/var/www/magento18/lib/Varien/Object.php
+2013-11-12T08:46:09+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::update(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:46:09+00:00 DEBUG (7): Undefined variable: cardData/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:46:09+00:00 DEBUG (7): Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php on line 38 and defined/var/www/magento18/lib/Varien/Object.php
+2013-11-12T08:48:17+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::update(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:48:17+00:00 DEBUG (7): Undefined variable: cardData/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:48:17+00:00 DEBUG (7): Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php on line 38 and defined/var/www/magento18/lib/Varien/Object.php
+2013-11-12T08:53:48+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::update(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:55:18+00:00 DEBUG (7): Missing argument 2 for Kentec_Checkoutexd_Model_Creditcard_Api::update(), called in /var/www/magento18/app/code/core/Mage/Api/Model/Server/Handler/Abstract.php on line 294 and defined/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-12T08:55:18+00:00 DEBUG (7): Undefined variable: cardData/var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Creditcard/Api.php
+2013-11-14T06:46:03+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-14T06:46:03+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 8
+2013-11-14T07:34:49+00:00 ERR (3): Warning: fopen(/var/www/magento18/order): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 73
+2013-11-14T07:34:49+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 74
+2013-11-14T07:37:40+00:00 ERR (3): Warning: fopen(/var/www/magento18/order): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 73
+2013-11-14T07:37:40+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 74
+2013-11-14T07:40:09+00:00 ERR (3): Warning: fopen(/var/www/magento18/order): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 73
+2013-11-14T07:40:09+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 74
+2013-11-14T07:42:35+00:00 ERR (3): Warning: fopen(/var/www/magento18/order): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 73
+2013-11-14T07:42:35+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 74
+2013-11-14T07:42:35+00:00 ERR (3): Warning: fclose() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 75
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fopen(test.txt): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 73
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 74
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fclose() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 75
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fopen(/var/www/magento18/order): failed to open stream: Permission denied  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 77
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fwrite() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 78
+2013-11-14T07:45:18+00:00 ERR (3): Warning: fclose() expects parameter 1 to be resource, boolean given  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 79
+2013-11-14T09:05:18+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-11-14T09:05:18+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 8
+2013-11-15T06:06:34+00:00 ERR (3): User Error: Some transactions have not been committed or rolled back  in /var/www/magento18/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 3865
+2013-11-27T06:12:31+00:00 ERR (3): Notice: Undefined offset: 1  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 49
+2013-11-27T06:29:48+00:00 ERR (3): Notice: Undefined offset: 1  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 49
+2013-11-27T06:39:18+00:00 ERR (3): Notice: Undefined offset: 2  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 49
+2013-11-27T06:39:28+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T06:49:12+00:00 ERR (3): Notice: Undefined offset: 1  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 49
+2013-11-27T06:50:35+00:00 ERR (3): Notice: Undefined offset: 2  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 49
+2013-11-27T07:12:56+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:13:18+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:13:58+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:16:14+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:16:43+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:17:21+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:20:37+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:20:42+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:20:51+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:21:35+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:21:41+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T07:51:38+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T08:48:57+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T08:54:25+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-27T08:55:18+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-27T08:55:18+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-27T08:55:18+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-27T08:55:18+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 55
+2013-11-27T08:55:18+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:55:26+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-27T08:55:26+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-27T08:55:26+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-27T08:55:26+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 55
+2013-11-27T08:55:26+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:56:07+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-27T08:56:07+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-27T08:56:07+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-27T08:56:07+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 55
+2013-11-27T08:56:07+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:56:14+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-27T08:56:14+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-27T08:56:14+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-27T08:56:14+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 55
+2013-11-27T08:56:14+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:58:42+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-27T08:58:42+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-27T08:58:42+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 55
+2013-11-27T08:58:42+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:59:29+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T08:59:40+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:00:19+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:07:33+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:07:33+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:07:33+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:08:23+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:08:23+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:08:23+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:09:04+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:09:04+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:09:04+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:10:12+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:10:27+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:10:40+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:10:52+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 56
+2013-11-27T09:55:35+00:00 ERR (3): User Error: Some transactions have not been committed or rolled back  in /var/www/magento18/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 3865
+2013-11-28T01:21:06+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T01:21:52+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T01:24:37+00:00 ERR (3): Notice: Undefined index: creditcard[cc_name]  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T01:24:48+00:00 ERR (3): Notice: Undefined index: creditcard[cc_name]  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T01:27:33+00:00 ERR (3): Notice: Undefined index: creditcard[cc_name]  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T01:31:38+00:00 ERR (3): Notice: Undefined index: creditcard[cc_name]  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 48
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_cid  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 69
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 62
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 64
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 65
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 66
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_year  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 67
+2013-11-28T02:14:32+00:00 ERR (3): Notice: Undefined index: cc_exp_month  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 68
+2013-11-28T04:21:20+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T04:21:20+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-28T04:21:20+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T04:21:20+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-28T05:29:02+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T05:29:02+00:00 ERR (3): Notice: Undefined index: cc_name  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 52
+2013-11-28T05:29:02+00:00 ERR (3): Notice: Undefined index: cc_type  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T05:29:02+00:00 ERR (3): Notice: Undefined index: cc_number  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 54
+2013-11-28T05:32:10+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T05:32:52+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T05:32:52+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T05:35:45+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:26:31+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:26:31+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:26:56+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:26:56+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:26:56+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:26:56+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:27:36+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:27:36+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:28:39+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:28:39+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:28:53+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:28:53+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T06:53:00+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T06:53:00+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T07:06:41+00:00 DEBUG (7): Companyname_Modulename_Model_Objectmodel_Api: methodName called
+2013-11-28T07:57:18+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T07:57:18+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T08:00:46+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 50
+2013-11-28T08:00:46+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 53
+2013-11-28T08:40:31+00:00 ERR (3): Notice: Undefined variable: count  in /var/www/magento18/app/design/adminhtml/default/default/template/checkoutexd/customertab.phtml on line 1
+2013-11-28T08:40:32+00:00 ERR (3): Notice: Undefined variable: count  in /var/www/magento18/app/design/adminhtml/default/default/template/checkoutexd/customertab.phtml on line 1
+2013-11-28T08:42:44+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-11-28T08:42:44+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-11-28T09:30:07+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-11-28T09:30:07+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-03T08:32:50+00:00 ERR (3): Notice: Undefined index: image  in /var/www/magento18/app/code/local/Kentec/Garagesale/controllers/GaragesaleController.php on line 85
+2013-12-04T03:59:52+00:00 ERR (3): Notice: Undefined index: creditcard  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 16
+2013-12-04T03:59:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 16
+2013-12-04T08:04:57+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-04T08:04:57+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-04T08:05:14+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-04T08:05:14+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-05T02:32:00+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-05T02:32:00+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-11T09:11:22+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:11:22+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:11:22+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:11:53+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:11:53+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:11:53+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:14:16+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-11T09:14:16+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-11T09:24:02+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-11T09:24:02+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-11T09:25:07+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:25:07+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:25:07+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:25:27+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:25:27+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:25:27+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:27:09+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 12
+2013-12-11T09:27:09+00:00 ERR (3): Notice: Undefined index: customer_id  in /var/www/magento18/app/code/local/Kentec/Boxconfig/Model/Observer.php on line 8
+2013-12-11T09:28:15+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:15+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:15+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:16+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:16+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:16+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:47+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--a/mage---internal-metadatas---2f0_CRON_LAST_HISTORY_CLEANUP_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:47+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--b/mage---internal-metadatas---2f0_CRON_LAST_SCHEDULE_GENERATE_AT): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:28:47+00:00 DEBUG (7): fopen(/var/www/magento18/var/cache/mage--d/mage---internal-metadatas---2f0_DB_PDO_MYSQL_DDL_cron_schedule_1): failed to open stream: Permission denied/var/www/magento18/lib/Zend/Cache/Backend/File.php
+2013-12-11T09:43:09+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-11T09:43:09+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20
+2013-12-11T09:43:25+00:00 ERR (3): Notice: Undefined index: delete  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 17
+2013-12-11T09:43:25+00:00 ERR (3): Notice: Undefined index: item_id  in /var/www/magento18/app/code/local/Kentec/Checkoutexd/Model/Observer.php on line 20

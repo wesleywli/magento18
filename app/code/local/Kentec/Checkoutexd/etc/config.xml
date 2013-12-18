@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Kentec_Checkoutexd>
+            <version>0.1.0</version>
+        </Kentec_Checkoutexd>
+    </modules>
+
+    <frontend>
+        <routers>
+            <checkoutexd>
+                <use>standard</use>
+                <args>
+                    <module>Kentec_Checkoutexd</module>
+                    <frontName>checkoutexd</frontName>
+                </args>
+            </checkoutexd>
+        </routers>
+    </frontend>
+
+    <admin>
+        <routers>
+            <checkoutexd>
+                <use>admin</use>
+                <args>
+                    <module>Kentec_Checkoutexd</module>
+                    <frontName>checkoutexd</frontName>
+                </args>
+            </checkoutexd>
+        </routers>
+    </admin>
+
+    <adminhtml>
+        <!-- <menu>
+            <checkoutexd module="checkoutexd">
+                <title>Checkoutexd</title>
+                <sort_order>71</sort_order>               
+                <children>
+                    <items module="checkoutexd">
+                        <title>Manage Items</title>
+                        <sort_order>0</sort_order>
+                        <action>checkoutexd/adminhtml_checkoutexd</action>
+                    </items>
+                </children>
+            </checkoutexd>
+        </menu> -->
+        <acl>
+            <resources>
+                <all>
+                    <title>Allow Everything</title>
+                </all>
+                <admin>
+                    <children>
+                        <checkoutexd>
+                            <title>Checkoutexd Module</title>
+                            <sort_order>200</sort_order>
+                        </checkoutexd>
+                    </children>
+                </admin>
+            </resources>   
+        </acl>
+        <layout>
+            <updates>
+                <checkoutexd>
+                    <file>checkoutexd.xml</file>
+                </checkoutexd>
+            </updates>
+        </layout>
+        <events>
+            <adminhtml_sales_order_create_create_order>
+                <observers>
+                    <kentec_checkoutexd>
+                        <type>singleton</type>
+                        <class>kentec_checkoutexd_Model_Observer</class>
+                        <method>submitCheckoutData</method>
+                    </kentec_checkoutexd>
+                </observers>
+            </adminhtml_sales_order_create_create_order>
+        </events>
+        
+    </adminhtml> 
+
+    <global>
+        <models>
+            <checkoutexd>
+                <class>Kentec_Checkoutexd_Model</class>
+                <resourceModel>checkoutexd_resource</resourceModel>
+            </checkoutexd>
+            <checkoutexd_resource>
+                <class>Kentec_Checkoutexd_Model_Resource</class>
+                <entities>
+                    <creditcard>
+                        <table>creditcard</table>
+                    </creditcard>
+                </entities>
+            </checkoutexd_resource>
+        </models>
+        <resources>
+            <checkoutexd_setup>
+                <setup>
+                    <module>Kentec_Checkoutexd</module>
+                    <class>Kentec_Checkoutexd_Model_Resource_Setup</class>
+                </setup>
+                <!-- <connection>
+                    <use>core_setup</use>
+                </connection> -->
+            </checkoutexd_setup>
+            <!-- <checkoutexd_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </checkoutexd_write>
+            <checkoutexd_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </checkoutexd_read> -->
+        </resources>
+        <blocks>
+            <checkoutexd>
+                <class>Kentec_Checkoutexd_Block</class>
+            </checkoutexd>
+        </blocks>
+        <helpers>
+            <checkoutexd>
+                <class>Kentec_Checkoutexd_Helper</class>
+            </checkoutexd>
+        </helpers>
+        <events>
+            <customer_save_after>
+                <observers>
+                    <kentec_checkoutexd>
+                        <type>singleton</type>
+                        <class>kentec_checkoutexd_Model_Observer</class>
+                        <method>saveCheckoutexdTabData</method>
+                    </kentec_checkoutexd>
+                </observers>
+            </customer_save_after>
+            <customer_delete_after>
+                <observers>
+                    <kentec_checkoutexd>
+                        <type>singleton</type>
+                        <class>kentec_checkoutexd_Model_Observer</class>
+                        <method>deleteCheckoutexdTabData</method>
+                    </kentec_checkoutexd>
+                </observers>
+            </customer_delete_after>
+            <!-- <sales_order_place_after> -->
+            <checkout_type_onepage_save_order_after>
+                <observers>
+                    <kentec_checkoutexd_order_observer>
+                        <type>singleton</type>
+                        <class>Kentec_Checkoutexd_Model_Order_Observer</class>
+                        <method>submitCheckoutData</method>
+                    </kentec_checkoutexd_order_observer>
+                </observers>
+            </checkout_type_onepage_save_order_after>
+            <!-- </sales_order_place_after> -->
+        </events>
+    </global>
+    
+</config>

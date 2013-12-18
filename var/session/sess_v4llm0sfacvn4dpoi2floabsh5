@@ -1,0 +1,1 @@
+customer_admin|a:2:{s:23:"_session_validator_data";a:4:{s:11:"remote_addr";s:12:"192.168.88.1";s:8:"http_via";s:0:"";s:20:"http_x_forwarded_for";s:0:"";s:15:"http_user_agent";s:37:"PHP-SOAP/5.5.5-1+debphp.org~precise+2";}s:13:"session_hosts";a:1:{s:10:"10.9.100.1";b:1;}}

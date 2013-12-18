@@ -1,0 +1,23 @@
+10-06 22:38:59.208: E/SoundPool(289): error loading /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.208: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.208: E/SoundPool(289): error loading /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.208: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.208: E/SoundPool(289): error loading /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.208: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.218: E/SoundPool(289): error loading /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.218: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.218: E/SoundPool(289): error loading /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.218: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+10-06 22:38:59.218: E/SoundPool(289): error loading /system/media/audio/ui/KeypressStandard.ogg
+10-06 22:38:59.218: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/KeypressStandard.ogg
+10-06 22:38:59.230: E/SoundPool(289): error loading /system/media/audio/ui/KeypressSpacebar.ogg
+10-06 22:38:59.230: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/KeypressSpacebar.ogg
+10-06 22:38:59.230: E/SoundPool(289): error loading /system/media/audio/ui/KeypressDelete.ogg
+10-06 22:38:59.239: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/KeypressDelete.ogg
+10-06 22:38:59.239: E/SoundPool(289): error loading /system/media/audio/ui/KeypressReturn.ogg
+10-06 22:38:59.239: W/AudioService(289): Soundpool could not load file: /system/media/audio/ui/KeypressReturn.ogg
+10-06 22:38:59.239: W/AudioService(289): onLoadSoundEffects(), Error -1 while loading samples
+10-06 22:38:59.258: D/MainActivity(873): login start
+10-06 22:38:59.368: D/dalvikvm(873): GC_FOR_ALLOC freed 70K, 7% free 2828K/3016K, paused 37ms, total 44ms
+10-06 22:39:01.348: D/sessionId(873): b4994f5c1b44eb625426881c120cb7e3
+10-06 22:39:01.358: D/MainActivity(873): login end

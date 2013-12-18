@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <api>
+        <resources>
+            <resource_name translate="title" module="companyname_modulename">
+                <title>Title Of My Resource</title>
+                <model>modulename/objectmodel_api</model>
+                <!-- <acl>resource_name</acl> -->
+                <methods>
+                    <methodName translate="title" module="companyname_modulename">
+                        <title>Title Of My Method</title>
+                        <method>methodName</method>
+                    </methodName>
+                </methods>
+            </resource_name>
+        </resources>
+        <resources_alias>
+            <resourcename>resource_name</resourcename>
+        </resources_alias>
+        <v2>
+            <resources_function_prefix>
+                <resourcename>resourceName</resourcename>
+            </resources_function_prefix>
+        </v2>
+        <!-- <acl>
+            <resources>
+                    <resource_name translate="title" module="companyname_modulename">
+                         <title>Modulename</title>
+                         <methodName translate="title" module="companyname_modulename">
+                            <title>Title Of My Method</title>
+                         </methodName>
+                    </resource_name>
+            </resources>
+        </acl> -->
+    </api>
+</config>

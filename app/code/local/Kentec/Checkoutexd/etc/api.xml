@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<config>
+    <api>
+        <resources>
+            <checkoutexd translate="title" module="kentec_checkoutexd">
+                <title>extend magento checkout core api</title>
+                <model>checkoutexd/cart_api</model>
+                <methods>
+                    <getCartQuoteIdByCustomerId translate="title" module="kentec_checkoutexd">
+                        <title>get cart quoteId by customer Id</title>
+                        <method>getCartQuoteIdByCustomerId</method>
+                    </getCartQuoteIdByCustomerId>
+                    <getWishlistIdByCustomerId translate="title" module="kentec_checkoutexd">
+                        <title>get wishlist Id by customer Id</title>
+                        <method>getWishlistIdByCustomerId</method>
+                    </getWishlistIdByCustomerId>
+                    <addProductToWishlist translate="title" module="kentec_checkoutexd">
+                        <title>add product to wishlist</title>
+                        <method>addProductToWishlist</method>
+                    </addProductToWishlist>
+                    <removeProductFromWishlistById translate="title" module="kentec_checkoutexd">
+                        <title>remove product from wishlist</title>
+                        <method>removeProductFromWishlistById</method>
+                    </removeProductFromWishlistById>
+                    <getWishlistItemByWishlistId translate="title" module="kentec_checkoutexd">
+                        <title>get Wishlist Items by Wishlist Id</title>
+                        <method>getWishlistItemByWishlistId</method>
+                    </getWishlistItemByWishlistId>
+                </methods>
+            </checkoutexd>
+            <checkoutexd_creditcard translate="title" module="kentec_checkoutexd">
+                <title>custom customer creditcard api</title>
+                <model>checkoutexd/creditcard_api</model>
+                <methods>
+                    <getInfoByCustomerId translate="title" module="kentec_checkoutexd">
+                        <title>get creditcard info by customer Id</title>
+                        <method>getInfoByCustomerId</method>
+                    </getInfoByCustomerId>
+                    <getCardsByCustomerId translate="title" module="kentec_checkoutexd">
+                        <title>get creditcards info by customer Id</title>
+                        <method>getCardsByCustomerId</method>
+                    </getCardsByCustomerId>
+                    <create translate="title" module="kentec_checkoutexd">
+                        <title>create creditcard info</title>
+                        <method>create</method>
+                    </create>
+                    <update translate="title" module="kentec_checkoutexd">
+                        <title>update creditcard info</title>
+                        <method>update</method>
+                    </update>
+                    <delete translate="title" module="kentec_checkoutexd">
+                        <title>delete creditcard info</title>
+                        <method>delete</method>
+                    </delete>
+                </methods>
+            </checkoutexd_creditcard>
+        </resources>
+        <resources_alias>
+            <checkoutexd>checkoutexd</checkoutexd>
+        </resources_alias>
+        <v2>
+            <resources_function_prefix>
+                <checkoutexd>checkoutexd</checkoutexd>
+            </resources_function_prefix>
+        </v2>
+        
+    </api>
+</config>
